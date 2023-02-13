@@ -1,0 +1,14 @@
+SOLID Principles:
+
+1/Single Responsibility:
+                        Each class should be responsible for a single part or functionality.
+2/Open-Close:
+                        Each class should be open for extension, but not for modification.
+3/Liskov Substitution:
+                     	Objects of a superclass should be replaceable with objects of its subclasses
+4/Interface Segregation:
+                        No client should be forced to depend on methods that it does not use.
+5/Dependency Inversion:
+                       High-level class should not depend on low-level class, both should depend on abstractions.
+
+
